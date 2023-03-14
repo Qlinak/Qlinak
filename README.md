@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neville
 - 👀 I’m interested in all stuff related to computer science
-- 🌱 I’m currently learning to be a full stack developer
+- 🌱 I love backedn development
 - 📫 How to reach me qlinak@connect.ust.hk
 
 <!---
