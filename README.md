@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neville
 - 👀 I’m interested in all stuff related to computer science
-- 🌱 I love backend development
+- 🌱 I'm working as a software engineer now. I love backend development. But I'm passionate about all SDE stuff
 - 📫 How to reach me: qlinak@connect.ust.hk
 
 <!---
